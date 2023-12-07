@@ -1,3 +1,3 @@
-# Graduation_Project_HE_Stduy
+# Graduation_Project_HE_Study
 Fully Homomorphic Encryption : BGV study 
 yeah..
