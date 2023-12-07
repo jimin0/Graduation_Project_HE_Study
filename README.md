@@ -1,2 +1,3 @@
 # Graduation_Project
-졸업작품 
+Fully Homomorphic Encryption : BGV study 
+yeah..
